@@ -16,3 +16,4 @@
 [Cценарии(Google Docs)](https://docs.google.com/spreadsheets/d/1s23DGmFGLCF0XYBZNvh4YwEpF3RGO6N3/edit?usp=sharing&ouid=109730434132411612106&rtpof=true&sd=true)
 
 ## Диаграмма состояний и переходов
+![Диаграмма](attachments/diagram.png)
