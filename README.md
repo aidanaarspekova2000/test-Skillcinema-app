@@ -1,10 +1,18 @@
 # test-Skillcinema-app
+Баг-репорты, созданные в ходе обучения QA
 
+## О проекте
 Данный репозиторий содержит баг-репорты и тестовую документацию, созданные в ходе практики QA-курса.
 В рамках обучения проводилось ручное тестирование мобильного приложения на основе предоставленной спецификации.
 Баг-репорты были первоначально оформлены в Jira и перенесены в GitHub для формирования портфолио.
 
+## Инструменты
+- Android Studio
+- Figma
+- Jira
+- Chrome DevTools
+
 ## Тестовые сценарии
-(https://docs.google.com/spreadsheets/d/1s23DGmFGLCF0XYBZNvh4YwEpF3RGO6N3/edit?usp=sharing&ouid=109730434132411612106&rtpof=true&sd=true)
+[Cценарии(Google Docs)](https://docs.google.com/spreadsheets/d/1s23DGmFGLCF0XYBZNvh4YwEpF3RGO6N3/edit?usp=sharing&ouid=109730434132411612106&rtpof=true&sd=true)
 
 ## Диаграмма состояний и переходов
